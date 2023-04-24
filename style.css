@@ -44,6 +44,10 @@ section {
   color: white;
   background-color: rgb(255, 78, 107);
 }
+.custom-button:hover{
+    background-color: rgb(248, 39, 74);
+}
+
 .latest-work-section {
   background-image: url(./images/latest-work-bg.png);
   background-repeat: no-repeat;
